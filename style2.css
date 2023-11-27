@@ -1,0 +1,39 @@
+* {
+  margin: 0;
+}
+
+header,
+article,
+aside,
+nav,
+footer {
+  padding: 20px;
+}
+
+.content {
+  display: flex;
+  height: 30vh;
+}
+
+header {
+  background-color: yellow;
+}
+
+article {
+  background-color: white;
+  width: 70%;
+}
+
+aside {
+  background-color: pink;
+  width: 25%;
+}
+
+nav {
+  background-color: aqua;
+  width: 25%;
+}
+
+footer {
+  background-color:yellow;
+}
